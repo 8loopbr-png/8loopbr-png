@@ -50,8 +50,9 @@ audit each other, because a single model agrees with itself too easily.
 **Access control** — Row Level Security, permission boundaries, data isolation.
 Tested by calling the API as an attacker would, not by reading the code.
 
-**Payments and escrow** — custody flows, idempotent webhooks, refunds arriving
-out of order, duplicate settlement. Implemented on two different rails:
+**Payments, escrow and anti-fraud** — custody flows, idempotent webhooks, refunds
+arriving out of order, duplicate settlement. I designed the escrow model and the
+anti-fraud rules for 8LOOP myself, and implemented them on two different rails:
 Stripe Connect and Mercado Pago.
 
 ---
@@ -60,7 +61,7 @@ Stripe Connect and Mercado Pago.
 
 | | |
 |---|---|
-| **1997–2001** | Banking operations — clearing, settlement, fraud prevention (HSBC, Unibanco) |
+| **1997–2001** | Banking operations — cheque and interbank transfer clearing and settlement (HSBC, Unibanco) |
 | **2005–2008** | COBOL / DB2 mainframe development for credit card systems |
 | **2010–2012** | Market intelligence and BI (Amcham Brasil, Thomson Reuters) |
 | **2012–2024** | Founder and operator — 3 retail locations, 60+ suppliers, US$1.2M → US$3.6M annual revenue |
