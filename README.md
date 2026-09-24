@@ -75,10 +75,10 @@ stops applying.
 
 | | |
 |---|---|
-| **1997–2001** | Banking operations — cheque and interbank transfer clearing and settlement (HSBC, Unibanco) |
+| **1997–2001** | Banking operations — cheque and DOC clearing and settlement through COMPE, the Brazilian interbank clearing system (HSBC, Unibanco) |
 | **2005–2008** | COBOL / DB2 mainframe development for credit card systems |
 | **2010–2012** | Market intelligence and BI (Amcham Brasil, Thomson Reuters) |
-| **2012–2024** | Founder and operator — 3 retail locations, 60+ suppliers, US$1.2M → US$3.6M annual revenue |
+| **2012–2024** | Founder and operator — 3 retail locations, 60+ suppliers, R$1.2M → R$3.6M annual revenue (roughly US$240K → US$720K) |
 | **2026–** | Founder, 8LOOP — production marketplace with escrow and real payments |
 
 I read COBOL and I run AI agents. Those two rarely appear in the same person.
